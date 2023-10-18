@@ -31,7 +31,7 @@ def show_cameras(indices):
 
 
 def main():
-    show_cameras([0, 1, 2])
+    show_cameras([0, 1, 3])
 
 
 if __name__ == "__main__":
